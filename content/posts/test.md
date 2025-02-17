@@ -1,6 +1,6 @@
 +++
-categories = ['Network' , 'Computer']
-tags = ['Computer']
+categories = ["Network"]
+tags = ["Computer"]
 date = '2025-02-17'
 draft = false
 title = '網路概述'
