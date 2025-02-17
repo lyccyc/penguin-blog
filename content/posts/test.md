@@ -1,7 +1,10 @@
 +++
+categories = ['Network']
+tags = ['Computer']
 date = '2025-02-17'
 draft = false
 title = '網路概述'
+featured_image = '/image/2025-02-17-Network.jpg'
 +++
 
 ## 什麼是網路?
@@ -10,7 +13,7 @@ title = '網路概述'
 
 ## 網路如何運作?
 
-![網路分布圖](../static/image/2025-02-17-Network.jpg)
+<img src="/image/2025-02-17-Network.jpg" alt="網路分布圖" width="1200">
 
 我們可以將網路運作想像成一台電腦發送郵件或包裹並由另一台電腦接收的過程。
 
