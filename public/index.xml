@@ -6,84 +6,34 @@
     <description>Recent content on Penguin Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://localhost:1313/penguin-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
-        <title>Chapter I: The Grand Hall</title>
+        <title>網路概述</title>
         <link>http://localhost:1313/penguin-blog/posts/first-post/</link>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/penguin-blog/posts/first-post/</guid>
-        <description>Penguin Blog http://localhost:1313/penguin-blog/posts/first-post/ -&lt;p&gt;Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.&lt;/p&gt;
-&lt;p&gt;The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.&lt;/p&gt;
-&lt;p&gt;What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.&lt;/p&gt;
-&lt;p&gt;On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.&lt;/p&gt;
-&lt;p&gt;So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.&lt;/p&gt;
-&lt;p&gt;Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.&lt;/p&gt;
-&lt;p&gt;The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.&lt;/p&gt;
-&lt;p&gt;It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the &lt;em&gt;maréchaussée&lt;/em&gt;,
-the &lt;em&gt;maréchaussée&lt;/em&gt; to our &lt;em&gt;gendarmeri&lt;/em&gt; of Paris.&lt;/p&gt;
+        <description>Penguin Blog http://localhost:1313/penguin-blog/posts/first-post/ -&lt;h2 id=&#34;什麼是網路&#34;&gt;什麼是網路?&lt;/h2&gt;
+&lt;p&gt;網路使兩台電腦能互相通訊，有各種&lt;strong&gt;拓樸&lt;/strong&gt;(topologies，指網路成員間的特定排列方式)、&lt;strong&gt;媒介&lt;/strong&gt;(mediums，如光纖、同軸電纜等)和&lt;strong&gt;通訊協定&lt;/strong&gt;(protocols，如 TCP/IPX 等)&lt;/p&gt;
+&lt;h2 id=&#34;網路如何運作&#34;&gt;網路如何運作?&lt;/h2&gt;
+&lt;p&gt;我們可以將網路運作想像成一台電腦發送郵件或包裹並由另一台電腦接收的過程。&lt;/p&gt;
+&lt;p&gt;假設一個場景:我們從 Home Network 造訪某家公司的網站，並與位於 Company Network 的公司網站交換資料，就像發送包裹一樣，我們應該會知道包裹的目的地(地址)。&lt;/p&gt;
+&lt;p&gt;我們在瀏覽器輸入的網路位址或是全球資源定位器(&lt;strong&gt;Uniform Resource Locator/URL&lt;/strong&gt;)，又稱完全合格網域名稱(&lt;strong&gt;Fully Qualified Domain Name/FQDN&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;兩者的差別在於:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FQDN:僅指定建築物的地址&lt;/li&gt;
+&lt;li&gt;URL: 也指定了包裹的「樓層」、「辦公室」、「郵箱」和對應的「員工」。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是，我們只知道地址，並不知道實際的地理位置，這時候就要透過郵局將包裹轉發到總郵局(&lt;strong&gt;網路服務供應商/ISP&lt;/strong&gt;)。&lt;/p&gt;
+&lt;p&gt;郵局就是我們的路由器，利用它連結網路中的&lt;strong&gt;網際網路&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;當我們透過郵局(路由器)傳送資料包，資料包就會被轉發到總郵局(ISP)，總郵局便會尋找該位址對應的登記簿(網域名稱服務)，並傳回對應的地理座標（IP 位址）。&lt;/p&gt;
+&lt;p&gt;在我們知道了地址的確切位置，我們的包裹將透過總郵局的直飛航班直接發送到那裡。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/penguin-blog/images/Networking-intro.jpg&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 - http://localhost:1313/penguin-blog/posts/first-post/ - </description>
         </item>
     
